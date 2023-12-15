@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\MengNeng\source\repos\UI\|http://localhost:80/rebcompiler/|C:\Users\MengNeng\Desktop\|C:\|C:\Users\MengNeng\Documents\Babylene\3RD YEAR ACTIVITIES\Theory of Programming Languages\</PublishUrlHistory>
+    <InstallUrlHistory>http://localhost:80/|http://localhost:80/rebcompiler/|http://rebcompiler/|http://localhost/rebcompiler/|http://localhost:54415/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory>C:\Users\MengNeng\Desktop</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
